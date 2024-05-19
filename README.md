@@ -1,5 +1,11 @@
 # FIAP_Modulo1_Tech_Challenge: Modelagem de Custos de Seguro Médico com Regressão Linear
 
+## Grupo 7
+Adriano Marques da Costa - RM355106
+Luiz Carlos Fraga e Silva Júnior - RM355338
+Rodrigo Zanel de Souza Pinheiro - RM354763 
+Weberton Eugenio de Faria - RM353807
+
 ## Descrição
 Este projeto visa modelar e prever os custos de seguro médico utilizando técnicas de regressão linear, baseado em um conjunto de dados que inclui características como idade, sexo, IMC, entre outros.
 
